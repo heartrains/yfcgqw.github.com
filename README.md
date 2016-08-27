@@ -1,2 +1,2 @@
-# yfcgqw.github.com
+# yfcgqw.github.io
 mygithubblog
